@@ -114,7 +114,7 @@ Business Insights
       ↓
 HR Recommendations
 
-📊 Key Metrics
+# **📊Key Metrics**
 Total Employees: 1,470
 Attrition Count: 237
 Overall Attrition Rate: 16.12%
@@ -123,7 +123,7 @@ Average Monthly Income: 6.50K
 Average Job Satisfaction: 2.73 / 4
 Average Years at Company: 7.01 years
 
-🔍 Key Business Insights
+## **🔍 Key Business Insights**
 Overtime is a major attrition driver: 30.5% attrition among employees working overtime vs. 10.4% without overtime.
 Sales has the highest department attrition: 20.6%.
 Sales Representatives show the highest role-level attrition: 39.8%.
@@ -132,7 +132,7 @@ Frequent business travel is associated with higher attrition: 24.9%.
 Poor work-life balance strongly correlates with attrition: 31.2% for the lowest rating.
 Lower job levels show higher attrition: Level 1 employees have 26.3% attrition.
 
-💡 Business Recommendations
+## **💡 Business Recommendations**
 Reduce excessive overtime through workload balancing and staffing optimization.
 Prioritize Sales retention, especially Sales Representatives.
 Strengthen early-career employee programs through mentoring, career growth, and onboarding support.
